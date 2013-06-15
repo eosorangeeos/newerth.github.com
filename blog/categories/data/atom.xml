@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Data | Newerth's Blog]]></title>
   <link href="http://newerth.github.io/blog/categories/data/atom.xml" rel="self"/>
   <link href="http://newerth.github.io/"/>
-  <updated>2013-06-15T13:14:19+08:00</updated>
+  <updated>2013-06-15T13:15:14+08:00</updated>
   <id>http://newerth.github.io/</id>
   <author>
     <name><![CDATA[Newerth]]></name>
@@ -157,8 +157,8 @@
 <li>外部排序</li>
 </ul>
 </li>
-<li>动态规划
-*贪心算法</li>
+<li>动态规划</li>
+<li>贪心算法</li>
 </ul>
 
 ]]></content>
