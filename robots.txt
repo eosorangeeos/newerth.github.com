@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://newerth.github.io/sitemap.xml 

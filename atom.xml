@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Newerth's Blog]]></title>
+  <link href="http://newerth.github.io/atom.xml" rel="self"/>
+  <link href="http://newerth.github.io/"/>
+  <updated>2013-06-15T12:25:29+08:00</updated>
+  <id>http://newerth.github.io/</id>
+  <author>
+    <name><![CDATA[Newerth]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
